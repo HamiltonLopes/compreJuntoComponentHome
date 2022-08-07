@@ -59,7 +59,7 @@ function Suggestions() {
   useEffect((): any => async () => {
     if (melhoresCombinacoes?.length === 0) {
       const response: any = await axios.get(
-        `http://localhost:3000/combinations-api/v1/raw-top-combinations`
+        `https://hccombinationsapi.tk/combinations-api/v1/raw-top-combinations`
       )
 
       let combinations = [{ "2": { "3": "10" } }];
