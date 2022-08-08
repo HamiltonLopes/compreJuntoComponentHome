@@ -4816,11 +4816,6 @@ tr46@^1.0.1:
   dependencies:
     punycode "^2.1.0"
 
-"travellog.compre-junto-component@https://finaltheme--travellog.myvtex.com/_v/private/typings/linked/v1/travellog.compre-junto-component@0.0.1+build1659814899/public/@types/travellog.compre-junto-component":
-  version "0.0.1"
-  resolved "https://finaltheme--travellog.myvtex.com/_v/private/typings/linked/v1/travellog.compre-junto-component@0.0.1+build1659814899/public/@types/travellog.compre-junto-component"
-  integrity sha512-TpPlsR6F5t8nzdrIC4lfb53MC/czo5LiGGIYo9ci7o8IFZ1TsfII3LaHhEF2kfQHWnZmTEPJ/EOm5NGqIm9bOQ==
-
 ts-invariant@^0.4.0, ts-invariant@^0.4.4:
   version "0.4.4"
   resolved "https://registry.npmjs.org/ts-invariant/-/ts-invariant-0.4.4.tgz"
@@ -5028,30 +5023,15 @@ verror@1.10.0:
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-list-context@0.4.1/public/@types/vtex.product-list-context"
   integrity sha512-zOM1Vjw0mfSqBoS+RxIguYMV274QufURwtD5M7aUEg28dUdVmsOOC4Jg2rMxxZ6cdzYucZGlgvwDa4BHLRgyow==
 
-"vtex.product-price@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-price@1.29.0/public/@types/vtex.product-price":
-  version "1.29.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-price@1.29.0/public/@types/vtex.product-price"
-  integrity sha512-WkoDKib6f32JDROnhmg+SLPx3wP9bgBahFtroFD6AHBt9lD3uPH89WWx9BGclPqpL9dXHObgbFTZGBgbDiN/Yg==
-
 "vtex.product-summary@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-summary@2.80.1/public/@types/vtex.product-summary":
   version "2.80.1"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-summary@2.80.1/public/@types/vtex.product-summary"
   integrity sha512-bQzZxB7Q+3jA1SR/M+WqHEd6dW7zHv3bfwiAIZ64NPtth5OuS6R1Bt3yU0x3iw2Q6QXv/LRmJsCkZ6Q6xJ5wfQ==
 
-"vtex.recommendation-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.recommendation-context@0.1.0/public/@types/vtex.recommendation-context":
-  version "0.1.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.recommendation-context@0.1.0/public/@types/vtex.recommendation-context"
-  integrity sha512-cnAGSgjfppsQ6qtGo/jAn3xfaRM1PbC+lQZdH3T6tzuhW/0ScixzwA/S9ANoECOtFhu/l9UiaZ37EpwhZZoRbg==
-
 "vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime":
   version "8.132.4"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime"
   integrity sha512-qYiGKi/h+KtqcH8ijJDdx6ba5sYeP/+QBk8uJcNci/Sc9+wVoBdrm9wXvUPaqPg24FbysfyuoFTogJ+9Q1OLgQ==
-
-"vtex.responsive-layout@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-layout@0.1.2/public/@types/vtex.responsive-layout":
-  version "0.1.2"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-layout@0.1.2/public/@types/vtex.responsive-layout"
-  integrity sha512-Srk8Pm0dvNYJ5Hn+lOQepRZVgKQM5YEeUtLikLmRAXwhd2E6EGBQbebIYg4EgvXoVJq6Lv0toHOrhwkbP65+pw==
 
 "vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.50.0/public/@types/vtex.search-graphql":
   version "0.50.0"
