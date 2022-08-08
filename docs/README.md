@@ -10,6 +10,10 @@ Projeto desenvolvido como desafio final no HiringCoders#3 Gama Academy VTEX.
 Este projeto é um componente em VtexIO que mostra as melhores combinações de items para venda
 de toda a loja na página principal, para chamar atenção do consumidor.
 
+Componente na loja Vtex:
+
+```"travellog.compre-junto-component-home": "0.x"```
+
 ---
 
 ## 🛠 Tecnologias/Ferramentas
